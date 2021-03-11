@@ -323,6 +323,11 @@ header ul li a {
 		background-repeat: no-repeat;
 		filter: invert(1);
 	}
+
+	.btn {
+		display: none;
+	}
+
 	.content
 	{
 		flex-direction: column;
